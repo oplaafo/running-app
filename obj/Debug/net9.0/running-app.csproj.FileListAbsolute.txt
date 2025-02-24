@@ -1,0 +1,14 @@
+D:\clases\running-app\bin\Debug\net9.0\running-app.exe
+D:\clases\running-app\bin\Debug\net9.0\running-app.deps.json
+D:\clases\running-app\bin\Debug\net9.0\running-app.runtimeconfig.json
+D:\clases\running-app\bin\Debug\net9.0\running-app.dll
+D:\clases\running-app\bin\Debug\net9.0\running-app.pdb
+D:\clases\running-app\obj\Debug\net9.0\running-app.GeneratedMSBuildEditorConfig.editorconfig
+D:\clases\running-app\obj\Debug\net9.0\running-app.AssemblyInfoInputs.cache
+D:\clases\running-app\obj\Debug\net9.0\running-app.AssemblyInfo.cs
+D:\clases\running-app\obj\Debug\net9.0\running-app.csproj.CoreCompileInputs.cache
+D:\clases\running-app\obj\Debug\net9.0\running-app.dll
+D:\clases\running-app\obj\Debug\net9.0\refint\running-app.dll
+D:\clases\running-app\obj\Debug\net9.0\running-app.pdb
+D:\clases\running-app\obj\Debug\net9.0\running-app.genruntimeconfig.cache
+D:\clases\running-app\obj\Debug\net9.0\ref\running-app.dll
