@@ -20,7 +20,7 @@ public class User
     {
         if (TrainingSessions.Count == 0)
         {
-            Console.WriteLine("No hay entrenamientos registrados");
+            Console.WriteLine("No hay entrenamientos registrados.");
             return;
         }
 
@@ -32,6 +32,6 @@ public class User
 
     public void ClearTrainingSessions() {
         TrainingSessions.Clear();
-        Console.WriteLine("Todos los entrenamientos han sido eliminados");
+        Console.WriteLine("Todos los entrenamientos han sido eliminados.");
     }
 }
